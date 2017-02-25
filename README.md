@@ -10,4 +10,7 @@ Problem 1: Radioactive Decay
   
   
 Problem 2: Monte Carlo integration
-  
+  Calculate value of integral using importance sampling formula with w(x)=x^1/2
+  -Show probability distribution p(x)
+  -Derive transformation formula for generation random numbers between zero and one for distribution
+  -Sample with N=1 000 000 random points and evaluate integral
